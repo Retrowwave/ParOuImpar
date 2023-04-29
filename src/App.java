@@ -1,5 +1,10 @@
 import java.util.Scanner;
 
+/* a) Escreva um algoritmo que solicite ao usuário um número inteiro e exiba se o
+número é par ou ímpar. Se o número for par, o programa deve exibir a mensagem
+"O número é par". Se o número for ímpar, o programa deve exibir a mensagem "O
+número é ímpar". */
+
 public class App {
     public static void main(String[] args) throws Exception {
 
